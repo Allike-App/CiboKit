@@ -9,6 +9,7 @@ import Foundation
 #if canImport(FoundationNetworking)
 import FoundationNetworking
 #endif
+import CiboKit_Components
 
 public struct Api {
     public let authentication: Authentication
